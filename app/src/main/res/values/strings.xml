@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JavaMVVM</string>
+    <string name="no">NO RESULT FOUND</string>
+    <string name="you_dont">You don\'t have any category list.</string>
+    <string name="todo">todo</string>
+    <string name="add_new">Add New item</string>
+</resources>
